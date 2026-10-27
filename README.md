@@ -21,6 +21,9 @@
     <a href="mailto:telhawasim@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://telhawasim.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-312C51?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
     <img src="https://komarev.com/ghpvc/?username=telhawasim&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
     <img src="https://img.shields.io/github/stars/telhawasim?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="GitHub Stars"/>
   </p>
