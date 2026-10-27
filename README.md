@@ -143,7 +143,7 @@ Designed to simplify custom font integration into iOS applications.
 
 **Tech:** `Swift` `SwiftUI` `UIKit` `SPM`
 
-**Status:** 🚧 Under Development
+**Status:** ✅ Released — Available on [Swift Package Index](https://swiftpackageindex.com/telhawasim/swift-font-kit)
 
 ---
 
